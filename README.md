@@ -1,7 +1,7 @@
 # Telugu_Bible
 Telugu Bible (CC by SA)
 
-Gospels (4 books) available now.
+New Testament (27 boks) available.
 
 Read Bible, Download Android/Desktop Apps
 
