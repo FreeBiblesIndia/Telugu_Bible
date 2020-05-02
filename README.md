@@ -5,7 +5,7 @@ New Testament (27 boks) available.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/tel/ (Coming soon)
+http://freebiblesindia.in/bible/tel/ (Coming soon)
 
 Thanks
 =======
