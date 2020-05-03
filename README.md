@@ -1,4 +1,7 @@
 # Telugu_Bible
+
+![icon](https://github.com/FreeBiblesIndia/Telugu_Bible/blob/master/icons/icon.png?raw=true)
+
 Telugu Bible (CC by SA)
 
 New Testament (27 boks) available.
